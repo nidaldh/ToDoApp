@@ -886,6 +886,7 @@ layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_loged_in
 layout activity_main
+layout activity_main2
 layout notification_action
 layout notification_action_tombstone
 layout notification_media_action
