@@ -1,0 +1,8 @@
+package nidal.project1;
+
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.cardview.widget.CardView;
+
+import android.Manifest;
+import android.annotation.SuppressLint;
+import android
