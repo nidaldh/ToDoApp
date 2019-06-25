@@ -22,6 +22,7 @@
         android:testOnly="true"
         android:theme="@style/AppTheme" >
         <activity android:name="com.example.todo.LogedIn" />
+        <activity android:name="com.example.todo.Main2Activity" />
         <activity android:name="com.example.todo.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

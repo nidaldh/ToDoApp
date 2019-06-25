@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\nidal\AndroidStudioProjects\ToDo2\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from C:\Users\nidal\AndroidStudioProjects\ToDo2\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from C:\Users\nidal\AndroidStudioProjects\ToDo2\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from C:\Users\nidal\AndroidStudioProjects\ToDo2\app\src\main\AndroidManifest.xml:2:1-22:12
+ADDED from C:\Users\nidal\AndroidStudioProjects\ToDo2\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\nidal\AndroidStudioProjects\ToDo2\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\nidal\AndroidStudioProjects\ToDo2\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\nidal\AndroidStudioProjects\ToDo2\app\src\main\AndroidManifest.xml:2:1-23:12
 MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\nidal\.gradle\caches\transforms-2\files-2.1\f83f4edaf290a0fad63129ba16755e91\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\nidal\.gradle\caches\transforms-2\files-2.1\deebb6266d8c33b5351ea0806b26bd17\AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\nidal\.gradle\caches\transforms-2\files-2.1\af38b79c0b845ff24fe75e3a378a59a9\AndroidManifest.xml:17:1-42:12
@@ -42,25 +42,25 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\nidal\.gradle
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\nidal\.gradle\caches\transforms-2\files-2.1\dc9a865149d5e9572fac7c7ef559cc92\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\nidal\.gradle\caches\transforms-2\files-2.1\de29a5ffd3bb6049d69f51c7285bccbc\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\nidal\.gradle\caches\transforms-2\files-2.1\3fbb5c54e0d40ee63647f48bfe62f6be\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\nidal\AndroidStudioProjects\ToDo2\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from C:\Users\nidal\AndroidStudioProjects\ToDo2\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from C:\Users\nidal\AndroidStudioProjects\ToDo2\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\nidal\AndroidStudioProjects\ToDo2\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\nidal\AndroidStudioProjects\ToDo2\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\nidal\AndroidStudioProjects\ToDo2\app\src\main\AndroidManifest.xml:2:1-23:12
 	package
 		ADDED from C:\Users\nidal\AndroidStudioProjects\ToDo2\app\src\main\AndroidManifest.xml:3:5-31
 		INJECTED from C:\Users\nidal\AndroidStudioProjects\ToDo2\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\nidal\AndroidStudioProjects\ToDo2\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\nidal\AndroidStudioProjects\ToDo2\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\nidal\AndroidStudioProjects\ToDo2\app\src\main\AndroidManifest.xml:2:1-22:12
+		ADDED from C:\Users\nidal\AndroidStudioProjects\ToDo2\app\src\main\AndroidManifest.xml:2:1-23:12
 		INJECTED from C:\Users\nidal\AndroidStudioProjects\ToDo2\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\nidal\AndroidStudioProjects\ToDo2\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\nidal\AndroidStudioProjects\ToDo2\app\src\main\AndroidManifest.xml:2:1-22:12
+		ADDED from C:\Users\nidal\AndroidStudioProjects\ToDo2\app\src\main\AndroidManifest.xml:2:1-23:12
 		INJECTED from C:\Users\nidal\AndroidStudioProjects\ToDo2\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\nidal\AndroidStudioProjects\ToDo2\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\nidal\AndroidStudioProjects\ToDo2\app\src\main\AndroidManifest.xml:5:5-20:19
+ADDED from C:\Users\nidal\AndroidStudioProjects\ToDo2\app\src\main\AndroidManifest.xml:5:5-21:19
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\nidal\.gradle\caches\transforms-2\files-2.1\deebb6266d8c33b5351ea0806b26bd17\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\nidal\.gradle\caches\transforms-2\files-2.1\deebb6266d8c33b5351ea0806b26bd17\AndroidManifest.xml:9:5-20
 MERGED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\nidal\.gradle\caches\transforms-2\files-2.1\af38b79c0b845ff24fe75e3a378a59a9\AndroidManifest.xml:23:5-40:19
@@ -97,20 +97,24 @@ activity#com.example.todo.LogedIn
 ADDED from C:\Users\nidal\AndroidStudioProjects\ToDo2\app\src\main\AndroidManifest.xml:12:9-54
 	android:name
 		ADDED from C:\Users\nidal\AndroidStudioProjects\ToDo2\app\src\main\AndroidManifest.xml:12:19-42
+activity#com.example.todo.Main2Activity
+ADDED from C:\Users\nidal\AndroidStudioProjects\ToDo2\app\src\main\AndroidManifest.xml:13:9-60
+	android:name
+		ADDED from C:\Users\nidal\AndroidStudioProjects\ToDo2\app\src\main\AndroidManifest.xml:13:19-48
 activity#com.example.todo.MainActivity
-ADDED from C:\Users\nidal\AndroidStudioProjects\ToDo2\app\src\main\AndroidManifest.xml:13:9-19:20
+ADDED from C:\Users\nidal\AndroidStudioProjects\ToDo2\app\src\main\AndroidManifest.xml:14:9-20:20
 	android:name
-		ADDED from C:\Users\nidal\AndroidStudioProjects\ToDo2\app\src\main\AndroidManifest.xml:13:19-47
+		ADDED from C:\Users\nidal\AndroidStudioProjects\ToDo2\app\src\main\AndroidManifest.xml:14:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\nidal\AndroidStudioProjects\ToDo2\app\src\main\AndroidManifest.xml:14:13-18:29
+ADDED from C:\Users\nidal\AndroidStudioProjects\ToDo2\app\src\main\AndroidManifest.xml:15:13-19:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\nidal\AndroidStudioProjects\ToDo2\app\src\main\AndroidManifest.xml:15:17-69
+ADDED from C:\Users\nidal\AndroidStudioProjects\ToDo2\app\src\main\AndroidManifest.xml:16:17-69
 	android:name
-		ADDED from C:\Users\nidal\AndroidStudioProjects\ToDo2\app\src\main\AndroidManifest.xml:15:25-66
+		ADDED from C:\Users\nidal\AndroidStudioProjects\ToDo2\app\src\main\AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\nidal\AndroidStudioProjects\ToDo2\app\src\main\AndroidManifest.xml:17:17-77
+ADDED from C:\Users\nidal\AndroidStudioProjects\ToDo2\app\src\main\AndroidManifest.xml:18:17-77
 	android:name
-		ADDED from C:\Users\nidal\AndroidStudioProjects\ToDo2\app\src\main\AndroidManifest.xml:17:27-74
+		ADDED from C:\Users\nidal\AndroidStudioProjects\ToDo2\app\src\main\AndroidManifest.xml:18:27-74
 uses-sdk
 INJECTED from C:\Users\nidal\AndroidStudioProjects\ToDo2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\nidal\AndroidStudioProjects\ToDo2\app\src\main\AndroidManifest.xml
